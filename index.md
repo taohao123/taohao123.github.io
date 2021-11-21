@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 陶浩 2006010124
 
-You can use the [editor on GitHub](https://github.com/taohao123/taohao123.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+性别：男  出生年月：2002/3  籍贯：湖南省益阳市安化县小淹镇  专业：旅游管理  政治面貌：共青团员  邮箱：1589615529@qq。com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 兴趣爱好
 
-```markdown
-Syntax highlighted code block
+篮球  羽毛球  英雄联盟
 
-# Header 1
-## Header 2
-### Header 3
+###  教育背景
 
-- Bulleted
-- List
+大学阶段
 
-1. Numbered
-2. List
+###  主修课程
 
-**Bold** and _Italic_ and `Code` text
+旅游管理
 
-[Link](url) and ![Image](src)
-```
+###  技能水平
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+都很一般
 
-### Jekyll Themes
+### 自我评价
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taohao123/taohao123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+我觉得我是一个社恐的人，不太能和陌生人交流，对自己的要求也往往比较低，我希望我以后能克服社恐，对自己要求也要严格一些，尽量做好每一件事。
